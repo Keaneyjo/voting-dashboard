@@ -1,0 +1,14 @@
+How to Run:
+
+To run this application, you'll need to first install both the processing programming language with IntelliJ.
+Processing: https://processing.org/
+IntelliJ: https://www.jetbrains.com/idea/download/
+
+I'd recommend following this tutorial here:
+https://www.youtube.com/watch?v=_h2GZgnPcnM
+
+After that, extract and open the source code as a project in IntelliJ.
+
+Run the main.java file, and wait for the program to compile.
+Once finished compiling, it should begin displaying the application.
+From there you can interact with it however you like.
